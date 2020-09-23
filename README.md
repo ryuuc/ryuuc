@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a .NET full stack developer.
+
+### Contact me
+
+- <https://github.com/ryuuc>
+- <ry2u@outlook.com>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ryuuc&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuc&theme=dark)
+
